@@ -45,7 +45,7 @@ branch:
   - IntelliJ: `Git -> branches... -> main -> Checkout`
   - Terminal: `git checkout main`
 Note: everything we've done has been local to our repository and have not pushed anything yet.
-- [ ] We are back on `main`, so we can now do the merge and complete our work!
+- [X] We are back on `main`, so we can now do the merge and complete our work!
   - IntelliJ: `Git -> Merge... -> task_1 -> Merge`
   - Terminal: `git merge task_1`
 
