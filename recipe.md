@@ -17,3 +17,7 @@
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
 5. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
+
+## Additional Directions by Bing:
+7. Bake in the oven until it passes the toothpick test (? I'm not a baker.)
+8. Enjoy and have a wonderful day! :]
