@@ -20,4 +20,4 @@
 
 ## Additional Directions by Bing:
 7. Bake in the oven until it passes the toothpick test (? I'm not a baker.)
-8. Enjoy and have a wonderful day! :]
+8. Enjoy and have a wonderful rest of your day! :]
